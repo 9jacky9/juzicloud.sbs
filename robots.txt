@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juzicloud.sbs/sitemap.xml
